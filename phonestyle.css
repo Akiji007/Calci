@@ -8,8 +8,8 @@
  
  .container{
      width:100%;
-     height: 100vh;
-     background-color: rgba(231, 71, 71, 0.9);
+     height: 97vh;
+     background-color: rgb(233, 18, 83);
      display: flex;
      align-items: center;
      justify-content: center;
@@ -17,7 +17,7 @@
  
  
  .calculator{
-     background-color: #1577f0;
+     background-color: #2e80f3;
      padding: 20px;
      border-radius: 12px;
  
@@ -29,10 +29,10 @@
      width: 60px;
      height: 60px;
      border-radius: 12px;
-     box-shadow: -8px -8px 15px rgb(235, 81, 81), 5px 5px 15px rgba(204, 2, 2, 0.2);
+     box-shadow: -8px -8px 15px rgba(245, 94, 94), 5px 5px 15px rgba(0, 0,0, 0.2);
      background: transparent;
      font-size: 20px;
-     color: rgb(251, 255, 0);
+     color: rgb(59, 224, 142);
      cursor: pointer;
      margin: 15px;
  }
@@ -51,5 +51,5 @@
      width: 140px;
  }
  form input.operator{
-     color: rgb(0, 0, 0);
+     color: rgb(1, 8, 8);
  }
